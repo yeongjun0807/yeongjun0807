@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JUN
+- 👋 Hi, I’m yeongjun hwang
 - 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... python projects
