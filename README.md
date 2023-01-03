@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yeongjun hwang
-- 👀 I’m interested in ... python
+- 👀 I’m interested in ... python, c
 - 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... just come to south korea
